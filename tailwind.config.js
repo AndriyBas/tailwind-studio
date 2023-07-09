@@ -10,7 +10,11 @@ module.exports = {
         grayishBlue: "hsl(201, 11%, 66%)",
       },
       fontFamily: {
-        sans: ["Bai Jamjuree", "sans-serif"],
+        sans: ["Josefin Sans", "sans-serif"],
+        alata: ["Alata"],
+      },
+      letterSpacing: {
+        superWide: ".3em",
       },
     },
     screens: {
